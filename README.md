@@ -6,7 +6,7 @@ Title: Breakdown of Titanic Passangers
 
 Walters, E. (2018) Breakdown of Titantic Passangers. Retrieved from:https://app.rawgraphs.io/
 
-https://elliottwalters.github.io/rawgraph-tutroial/
+https://elliottwalters.github.io/rawgraph-tutorial/
 
 
 
